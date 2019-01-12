@@ -13,6 +13,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/gouzhong/TestConfig.git
+          uri: https://github.com/gouzhong/ConfigService.git #github上去拿配置
           username: gouzhong
           password: 5200Lwx61
